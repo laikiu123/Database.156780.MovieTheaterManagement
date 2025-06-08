@@ -1,6 +1,6 @@
 # Movie/Event Ticket Management Database
 
-This project provides a SQL Server-based database for managing movie ticket sales, showtimes, seats, orders, and reporting. It is designed for a small team (3 developers) to build over 2 weeks and includes full data model, stored procedures, views, indexing, and role-based security.
+This project provides a SQL Server-based database for managing movie ticket sales, showtimes, seats, orders, and reporting. It includes full data model, stored procedures, views, indexing, and role-based security.
 
 ## Table of Contents
 
