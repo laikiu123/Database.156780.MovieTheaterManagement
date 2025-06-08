@@ -68,9 +68,9 @@ This project provides a SQL Server-based database for managing movie ticket sale
 │   ├── 01_CreateUsers.sql
 │   ├── 02_CreateDBRoles.sql
 │   ├── 03_GrantPermissions.sql
-│        ├── GrantPermissions_Customer.sql
-│        ├── GrantPermissions_Employee.sql
-│        └── GrantPermissions_Admin.sql
+│   │    ├── GrantPermissions_Customer.sql
+│   │    ├── GrantPermissions_Employee.sql
+│   │    └── GrantPermissions_Admin.sql
 │   └── 04_RevokePermissions.sql
 │        ├── RevokePermissions_Customer.sql
 │        ├── RevokePermissions_Employee.sql
