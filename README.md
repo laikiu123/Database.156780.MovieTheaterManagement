@@ -12,6 +12,7 @@ This project provides a SQL Server-based database for managing movie ticket sale
 6. [Security & Roles](#security--roles)
 7. [Server Requirements](#server-requirements)
 8. [Conventions](#conventions)
+9. [Team Member](#team-member)
 
 ## Prerequisites
 
@@ -161,6 +162,9 @@ See `/05_TestScripts/` for detailed workflow tests:
 * Soft deletes: Movie uses status flag
 * Seat uniqueness: `UNIQUE(showtime_id, seat_id)` in OrderDetail
 
+## Team Member
+* Trong Le Minh (Team Leader)
+* Vinh Nguyen Sy
 ---
 
 
